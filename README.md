@@ -1,9 +1,9 @@
-----Article Name ----
+ Multi-Level collapsible tree menu with CSS 
 ================
 
-----Article Name ---- 
+ Multi-Level collapsible tree menu with CSS  
 
-This is a demo code to demonstrate "----Article Name ----" project made for article on Techstream ----Article Link----
+This is a demo code to demonstrate " Multi-Level collapsible tree menu with CSS " project made for article on Techstream http://techstream.org/Web-Design/Multi-Level-collapsible-menu-with-CSS
 
 Credits
 -------

@@ -1,0 +1,25 @@
+.tree-list {
+
+}
+	.tree-list li > ul, .tree-list li > ol {
+		display: none;
+	}
+
+	.tree-list input[type="checkbox"] {
+		display: none;
+		position: relative;
+	}
+
+	.tree-list label {
+		position: relative;
+		display: inline-block;
+	}
+
+	.tree-list label:after {
+		content: '+';
+		position: static;
+	}
+
+	.tree-list input[type="checkbox"]:checked + ul, .tree-list input[type="checkbox"]:checked + ol{
+		display: block;
+	}
